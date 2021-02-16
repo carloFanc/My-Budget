@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.GridLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_10dp"
+        android:padding="@dimen/dimen_10dp"
+        app:columnCount="2">
+
+        <TextView
+            android:id="@+id/tv_help"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            app:layout_columnSpan="2"
+            app:layout_gravity="fill_horizontal"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:text="@string/pick_dates"/>
+
+        <TextView
+            android:id="@+id/tv_title_date_from"
+            style="@style/HeaderTextView"
+            app:layout_gravity="fill_horizontal"
+            app:layout_columnWeight="1"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:text="@string/date_from"/>
+
+        <Button
+            android:id="@+id/btn_date_from"
+            app:layout_gravity="fill_horizontal"
+            app:layout_columnWeight="1"
+            style="?android:attr/borderlessButtonStyle"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="@string/date_placeholder"/>
+
+        <TextView
+            android:id="@+id/tv_title_date_to"
+            app:layout_gravity="fill_horizontal"
+            app:layout_columnWeight="1"
+            android:gravity="center"
+            style="@style/HeaderTextView"
+            android:text="@string/to_date"/>
+
+        <Button
+            android:id="@+id/btn_date_to"
+            app:layout_gravity="fill_horizontal"
+            app:layout_columnWeight="1"
+            style="?android:attr/borderlessButtonStyle"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="@string/date_placeholder"/>
+
+    </android.support.v7.widget.GridLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="zero.mybudget.BudgetActivity">
+    <item
+        android:id="@+id/export_pdf"
+        android:orderInCategory="100"
+        android:title="@string/export_pdf"
+        app:showAsAction="never" />
+</menu>

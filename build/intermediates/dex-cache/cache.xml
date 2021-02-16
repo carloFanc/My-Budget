@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\5772fb94a7bfafb1589d8a2cb980296c06426fb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_8ec4d94ea8ac5e3f76ce257bdea585d809faeef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\12b4d58f7098afdcae30c085c57c2672e1bbac52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_c2f2d6be61ca217ced7e8aa9eb5060ef2d2ea906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\0b35d0af6007b9c3a160feedaa1b306e71031ac7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_5c7becf982db6b5b654ebd0a67919c6267a8a07f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\605538d6060b5a2c472e2d9ebdd7f43e9b6d71c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_080bf032669b055010124f4376d14cb0cd7d5837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\7f1704fa5bcb76ac7b34f6bb730c5e480ac885c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_bd2e8a500c52021191c23ec4993c3d3ed15609ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.6\b036abbb61656165da99cf44898e4b9123687e65\MPAndroidChart-v2.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b036abbb61656165da99cf44898e4b9123687e65">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.1.6_300ac1dc300c020073e979e8c49c6979afd8c115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\12b4d58f7098afdcae30c085c57c2672e1bbac52\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_10a49743c3c38d25b74d070d70092da6f009e29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\254a13a0e981c22f1667315f26c9be6d9a970092\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_58bdd823811503fa22828ee15de85159ba87ea1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\da2c772cf9e12024ccac792db3fb502b7d6e611e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_ca318046a321575ebbfb7c9e7a311952e0caf998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.gradle\caches\modules-2\files-2.1\com.itextpdf\itextg\5.5.10\247811bfc4d8f4e99c909236eadf4dfc6dfa1615\itextg-5.5.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="247811bfc4d8f4e99c909236eadf4dfc6dfa1615">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\itextg-5.5.10_a988697b91d82ab07d547afe952b11553d1d1b59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\Desktop\MyBudget\app\libs\itextg-5.5.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4776ad88a90a2cf10ca37c454c5520c7d5466f7">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\itextg-5.5.8_6ddcfff4d9f54bb69b25c1a87abe45c35365baee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\5772fb94a7bfafb1589d8a2cb980296c06426fb2\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_964567a344fb7ad50a8bd0d27968dbf7ff0f119d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\0b35d0af6007b9c3a160feedaa1b306e71031ac7\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3612df6d9f6c8c80fa07db3aa43618948e2bd040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\1433c5ab109c8c4145459972b444a2f7deb074a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_8fb82a2048d22d2e6c05fdf31ebc23fd2abe1e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_b7a80af4f35cc56476f31d49a625c17434de8219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\14d56d62684f2d98686a86847f6a44b5633ae285\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_5642a38ace55a243cc3fb75277b2860da9a6d285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\79ce50ed26d37911875007b389f1bb5f90b4f6d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_fb4311081fa44c75a48fdeb1a31deeaa75a05ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\ca8c4fa70500a2b4e30714bad9bfc28826c924c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_4358a04c68cd0e929e0042d7ac74b890a47ce36a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\9237fc8cec3ddfa4073c2e4629ac573a66981de9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_ddac0d0323842c9363c42f5972a48cb724e37a8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\d2a40817d2531fb01548c428fbf53c3e43844ea7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5025063c4c03baa1b6759432195024dd8e5a3f92">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_148bf10889bc4d8a6040d2a6695f737776410acd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\f1b9c56ed108acdb68473a4e82f00d3c9944f1e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_05ed88409613f0e760825f4b86be3df565e5a662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\93e245d61a38ce5cc044e36475129c2e44bbf90d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_d72f59088d72dc82fbf2c1a15a2bedc9a62ced28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\38a42a3cad13a302768203637c34dea8e24e818a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_82d863a57b0106dddfd591f5d40b4e93ef112014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\298733582059bd93c97e13d9e6fef567ccd9c719\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_ae03fbac0438a4baf6e52c63292ce8bf9ae115d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\71cb4c16c9e21594a4daa218ba4fb1c70fef7210\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3351ca4bcb9ba871606bd9e355433d5463a56c67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\71cb4c16c9e21594a4daa218ba4fb1c70fef7210\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\classes_ca476405e3f002ca7b784712216c12ba769a75e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlof\.android\build-cache\7f1704fa5bcb76ac7b34f6bb730c5e480ac885c1\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Carlof\Desktop\MyBudget\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_64e322434014657c41918ed9c0f556e46d7bdb17.jar" />
+    </item>
+
+</items>

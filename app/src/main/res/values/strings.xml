@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">MyBudget</string>
+    <string name="export_pdf">Export in PDF</string>
+    <string name="toolbar_expenses">Expenses</string>
+    <string name="toolbar_incomes">Incomes</string>
+    <string name="toolbar_balance">Balance</string>
+    <string name="menu_title">Ultimate Budget Tracker</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="pref_country_key">country_key</string>
+    <string name="date_format_key">date_format_key</string>
+    <string name="default_country">IT</string>
+    <string name="default_date_format">MM/dd/yyyy</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Account</item>
+        <item>Portfolios</item>
+        <item>Categories</item>
+        <item>Recurring Transactions</item>
+        <item>Statistics</item>
+        <item>History</item>
+        <item>Map</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_account</item>
+        <item>@drawable/ic_portfolios</item>
+        <item>@drawable/ic_categories</item>
+        <item>@drawable/ic_recurring</item>
+        <item>@drawable/ic_statistics</item>
+        <item>@drawable/ic_history</item>
+        <item>@drawable/ic_map</item>
+
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_portfolios">PORTFOLIOS</string>
+    <string name="title_recurring">RECURRING TRANSACTIONS</string>
+    <string name="title_categories">CATEGORIES</string>
+    <string name="enter_name">Portfolio Name</string>
+    <string name="add_record_portfolio">Add Portfolio</string>
+    <string name="add_record_category">Add Category</string>
+    <string name="btn_update">Update</string>
+    <string name="date_placeholder">date placeholder</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_set">Set</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_desc">Description</string>
+    <string name="enter_title">Portfolio Name</string>
+    <string name="enter_title_category">Category Name</string>
+    <string name="add_cash">Add Transaction </string>
+    <string name="add_rec_trans">Add Recurring Transaction </string>
+    <string name="pick_dates">Pick a range of dates</string>
+    <string name="to_date">Date to</string>
+    <string name="date_from">Date from</string>
+
+</resources>
