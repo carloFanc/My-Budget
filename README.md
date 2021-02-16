@@ -1,6 +1,4 @@
-# My-Budget
-# My-Budget
-
+# My-Budget 
 Quest’app Android permette di tenere traccia delle entrate e uscite di carattere monetario dall’utente. Questa applicazione permette di:
 1. Aggiungere informazioni riguardante un entrata/uscita
 2. Aggiungere portafogli per la gestione del budget
